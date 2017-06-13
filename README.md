@@ -9,4 +9,4 @@ This repository contains my assignments
 
 [assignment 6](https://github.com/ZariouhYassin/Assignments/blob/master/assignment4.ipynb)
 
-[assignment 7](https://github.com/ZariouhYassin/Assignments/blob/master/assignment%20week5.ipynb)
+[assignment 8](https://github.com/ZariouhYassin/Assignments/blob/master/assignment%20week5.ipynb)

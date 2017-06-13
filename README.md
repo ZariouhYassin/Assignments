@@ -10,3 +10,7 @@ This repository contains my assignments
 [assignment 6](https://github.com/ZariouhYassin/Assignments/blob/master/assignment4.ipynb)
 
 [assignment 8](https://github.com/ZariouhYassin/Assignments/blob/master/assignment%20week5.ipynb)
+# Final Assignments
+This repository contains my  final assignments
+[Final Python assignment](https://github.com/ZariouhYassin/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[Final R assignment]()
